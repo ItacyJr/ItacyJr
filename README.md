@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @ItacyJr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-ItacyJr/ItacyJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center"> 
+	🚀Bem vindo ao meu GitHub
+</h1>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="470px" align="right">
+
+### 👨🏻‍💻Sobre mim: 
+- 👋 Me chamo **Itacy Junior**, tenho 19 anos.
+- 📌  De Fortaleza dos Nogueiras, Maranhão, Brasil.
+- 💼 Atualmente sou desenvolvedor Fullstack.
+- 🎓 Sou estudante de Engenharia de Software! 
+- 💬 Pergunte-me sobre **Html**,  **Css**, **Javascript**, **Python**, **Java**, **Figma**, **Photoshop**, **Corel draw** e **Github** que posso te ajudar!
+- 🛠️ Estudando para me tornar um **Engenheiro de Software e Full Stack Web Programator**.
+- 🔭 Curiosidades: jogar Counter Strike 2 / futevôlei; grande gosto por aprender novas tecnologias.
+
+<hr>
+
+### ⚡ Habilidades:
+- ![Python](https://skillicons.dev/icons?i=python&theme-dark) ![Photoshop`](https://skillicons.dev/icons?i=photoshop&theme-dark) ![Github](https://skillicons.dev/icons?i=github&theme-dark) ![Figma](https://skillicons.dev/icons?i=figma&theme-dark) ![Pycharm](https://skillicons.dev/icons?i=pycharm&theme-dark)![Javascript](https://skillicons.dev/icons?i=javascript&theme-dark) ![Css](https://skillicons.dev/icons?i=css&theme-dark) ![HTML5](https://skillicons.dev/icons?i=html&theme-dark) ![Java](https://skillicons.dev/icons?i=java&theme-dark)
+
+
+### 🧰 Ferramentas:
+- ![Docker](https://skillicons.dev/icons?i=docker&theme-dark) ![GitHub](https://skillicons.dev/icons?i=github&theme-dark) ![Windows](https://skillicons.dev/icons?i=windows&theme-dark) ![VSCode](https://skillicons.dev/icons?i=vscode&theme-dark) ![Discord](https://skillicons.dev/icons?i=discord&theme-dark) ![Linux](https://skillicons.dev/icons?i=linux&theme-dark) 
+
