@@ -23,3 +23,9 @@
 ### 🧰 Ferramentas:
 - ![Docker](https://skillicons.dev/icons?i=docker&theme-dark) ![GitHub](https://skillicons.dev/icons?i=github&theme-dark) ![Windows](https://skillicons.dev/icons?i=windows&theme-dark) ![VSCode](https://skillicons.dev/icons?i=vscode&theme-dark) ![Discord](https://skillicons.dev/icons?i=discord&theme-dark) ![Linux](https://skillicons.dev/icons?i=linux&theme-dark) 
 
+### Me encontre em outro lugar 🌎
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme-dark)](https://www.linkedin.com/in/vargastm/)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme-dark)](https://www.instagram.com/itacyjr/)
+[![Discord](https://skillicons.dev/icons?i=discord&theme-dark)](https://discordapp.com/users/1106353288657506365)
+[![Github](https://skillicons.dev/icons?i=github&theme-dark)](https://github.com/ItacyJr)
+<br>
