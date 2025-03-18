@@ -11,7 +11,7 @@
 - 💼 Atualmente sou desenvolvedor Fullstack e Designer Gráfico.
 - 🎓 Sou estudante de Engenharia de Software! 
 - 💬 Pergunte-me sobre **Html**,  **Css**, **Javascript**, **Python**, **Java**, **Figma**, **Photoshop** e **Corel draw** e que posso te ajudar!
-- 🛠️ Estudando para me tornar um **Engenheiro de Software e Full Stack Web Programator**.
+- 🛠️ Estudando para me tornar um **Engenheiro de Software**.
 - 🔭 Curiosidades: jogar Counter Strike 2 / futevôlei, grande gosto por aprender novas tecnologias.
 
 <hr>
