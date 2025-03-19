@@ -17,7 +17,7 @@
 <hr>
 
 ### ⚡ Habilidades:
-- ![Python](https://skillicons.dev/icons?i=python&theme-dark) ![Photoshop`](https://skillicons.dev/icons?i=photoshop&theme-dark) ![Github](https://skillicons.dev/icons?i=github&theme-dark) ![Figma](https://skillicons.dev/icons?i=figma&theme-dark) ![Pycharm](https://skillicons.dev/icons?i=pycharm&theme-dark)![Javascript](https://skillicons.dev/icons?i=javascript&theme-dark) ![Css](https://skillicons.dev/icons?i=css&theme-dark) ![HTML5](https://skillicons.dev/icons?i=html&theme-dark) ![Java](https://skillicons.dev/icons?i=java&theme-dark)
+- ![Python](https://skillicons.dev/icons?i=python&theme-dark) ![Photoshop`](https://skillicons.dev/icons?i=photoshop&theme-dark) ![Github](https://skillicons.dev/icons?i=github&theme-dark) ![Figma](https://skillicons.dev/icons?i=figma&theme-dark) ![Javascript](https://skillicons.dev/icons?i=javascript&theme-dark) ![Css](https://skillicons.dev/icons?i=css&theme-dark) ![HTML5](https://skillicons.dev/icons?i=html&theme-dark) ![Java](https://skillicons.dev/icons?i=java&theme-dark)
 
 
 ### 🧰 Ferramentas:
