@@ -17,11 +17,11 @@
 <hr>
 
 ### ⚡ Habilidades:
-- ![Python](https://skillicons.dev/icons?i=python&theme-dark) ![Photoshop`](https://skillicons.dev/icons?i=photoshop&theme-dark) ![Github](https://skillicons.dev/icons?i=github&theme-dark) ![Figma](https://skillicons.dev/icons?i=figma&theme-dark) ![Javascript](https://skillicons.dev/icons?i=javascript&theme-dark) ![Css](https://skillicons.dev/icons?i=css&theme-dark) ![HTML5](https://skillicons.dev/icons?i=html&theme-dark) ![Java](https://skillicons.dev/icons?i=java&theme-dark)
+- ![Python](https://skillicons.dev/icons?i=python&theme-dark) ![Github](https://skillicons.dev/icons?i=github&theme-dark) ![Javascript](https://skillicons.dev/icons?i=javascript&theme-dark) ![Css](https://skillicons.dev/icons?i=css&theme-dark) ![HTML5](https://skillicons.dev/icons?i=html&theme-dark) ![Java](https://skillicons.dev/icons?i=java&theme-dark)
 
 
 ### 🧰 Ferramentas:
-- ![Docker](https://skillicons.dev/icons?i=docker&theme-dark) ![GitHub](https://skillicons.dev/icons?i=github&theme-dark) ![Windows](https://skillicons.dev/icons?i=windows&theme-dark) ![VSCode](https://skillicons.dev/icons?i=vscode&theme-dark) ![Discord](https://skillicons.dev/icons?i=discord&theme-dark) ![Linux](https://skillicons.dev/icons?i=linux&theme-dark) 
+- ![Docker](https://skillicons.dev/icons?i=docker&theme-dark) ![Photoshop`](https://skillicons.dev/icons?i=photoshop&theme-dark) ![Figma](https://skillicons.dev/icons?i=figma&theme-dark) ![GitHub](https://skillicons.dev/icons?i=github&theme-dark) ![Windows](https://skillicons.dev/icons?i=windows&theme-dark) ![VSCode](https://skillicons.dev/icons?i=vscode&theme-dark) ![Discord](https://skillicons.dev/icons?i=discord&theme-dark) ![Linux](https://skillicons.dev/icons?i=linux&theme-dark) 
 
 ### Me encontre em outro lugar 🌎
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme-dark)](https://www.linkedin.com/in/vargastm/)
