@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="470px" align="right">
 
 ### 👨🏻‍💻Sobre mim: 
-- 👋 Eu me chamo **Itacy Junior**, tenho 19 anos.
+- 👋 Eu me chamo **Itacy Junior**, tenho 20 anos.
 - 📌  De Fortaleza dos Nogueiras, Maranhão, Brasil.
 - 💼 Atualmente sou desenvolvedor Fullstack e Designer Gráfico.
 - 🎓 Sou estudante de Engenharia de Software! 
